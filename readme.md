@@ -24,6 +24,6 @@
 * Jogos educativos de outros temas:<br>
   * <a href="https://beinternetawesome.withgoogle.com/pt-br_br/interland/">Interland</a>: Ensina cidadania digital e combate ao ciberbullyng. Criado pela própria Google. Indicado a partir dos 7 anos (crianças alfabetizadas).<br>
   * <a href="https://www.escolagames.com.br/jogos-educativos/criancas-pequenas">Escola Games</a>: Plataforma de jogos para crianças a partir de 4 anos de termas educativos diversos. Indicado para crianças em fase de alfabetização.<br>
-  * <a href=""></a>:<br>
+  * <a href="https://colorir-online.com">Colorir online</a>:Jogos de colorir que ajudam no manuseio do mouse<br>
   * <a href=""></a>:<br>
   
