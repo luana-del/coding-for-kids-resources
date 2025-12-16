@@ -26,6 +26,7 @@
   * <a href="https://www.escolagames.com.br/jogos-educativos/criancas-pequenas">Escola Games</a>: Plataforma de jogos para crianças a partir de 4 anos de termas educativos diversos. Indicado para crianças em fase de alfabetização.<br>
   * <a href="https://colorir-online.com">Colorir online</a>:Jogos de colorir que ajudam no manuseio do mouse<br>
 <br>
+
 * Inteligência Artificial para crianças<br>
-  * <a href="https://csforall.org/en-US/activities/hour-of-ai">Hora da IA</a>:Jogos e atividades simples sobre IA<br>
-  
+  * <a href="https://csforall.org/en-US/activities/hour-of-ai">Hora da IA</a>: Platafiorma de Jogos e atividades simples sobre IA<br>
+  * <a href="https://studio.code.org/courses/dance-ai-2023/units/1/lessons/1/levels/1">Festa dançante edição IA</a>: Jogo (baseado em programação com blocos) onde você usa uma IA para gerar fundos, temas e muito mais. +12 anos<br>
