@@ -30,3 +30,24 @@
 * Inteligência Artificial para crianças<br>
   * <a href="https://csforall.org/en-US/activities/hour-of-ai">Hora da IA</a>: Platafiorma de Jogos e atividades simples sobre IA<br>
   * <a href="https://studio.code.org/courses/dance-ai-2023/units/1/lessons/1/levels/1">Festa dançante edição IA</a>: Jogo (baseado em programação com blocos) onde você usa uma IA para gerar fundos, temas e muito mais. +12 anos<br>
+<br>
+
+* Ferramentas online e baixáveis para uso em sala de aula: <br>
+* <a href="https://appinventor.mit.edu/">App Inventor</a>
+* <a href="https://www.arduino.cc/en/software/">Arduino</a>
+* <a href="https://www.canva.com/">Canva</a>
+* <a href="https://beinternetawesome.withgoogle.com/pt-br_br/interland/">Cidadania Digital</a>
+* <a href="https://code.org/pt-BR">Code.org</a>
+* <a href="https://editor.construct.net/?startTour">Construct</a>
+* <a href="https://ctrlplaysjc.edclub.com/portal/">Digitação</a>
+* <a href="https://docs.google.com/drawings/">Ferramentas Google</a>
+* <a href="https://gamemaker.io/pt-BR/download">GameMaker</a>
+* <a href="https://godotengine.org/pt-br/">Godot</a>
+* <a href="https://blockly.games/">Block.ly</a>
+* <a href="https://www.kodugamelab.com/">Kodu</a>
+* <a href="https://ephtracy.github.io/">MagicaVoxel</a>
+* <a href="https://makecode.microbit.org/">Micro:bit</a>
+* <a href="https://www.piskelapp.com/">Piskel</a>
+* <a href="https://scratch.mit.edu/">Scratch 3</a>
+* <a href="https://codejr.org/scratchjr/index.html">Scratch Jr</a>
+* <a href="https://www.tinkercad.com/">Tinkercad</a>
